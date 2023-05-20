@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74b10870-03ad-4588-a4d5-87245038a01b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/comidaPerros/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/comidaPerros/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/comidaPerros/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/comidaPerros/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/comidaPerros/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/comidaPerros/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/comidaPerros/comidaPerros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/comidaPerros/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/funcionScanner/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/funcionScanner/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/funcionScanner/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/funcionScanner/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/funcionScanner/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/funcionScanner/funcionScanner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C03S_Intro-Java/funcionScanner/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C04S_Objetos-UML/Obj-UML/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C04S_Objetos-UML/Obj-UML/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C04S_Objetos-UML/Obj-UML/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C04S_Objetos-UML/Obj-UML/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C04S_Objetos-UML/Obj-UML/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C04S_Objetos-UML/Obj-UML/Obj-UML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C04S_Objetos-UML/Obj-UML/src/CajaDeAhorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C04S_Objetos-UML/Obj-UML/src/Cheque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C04S_Objetos-UML/Obj-UML/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C06S-Impresora/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C06S-Impresora/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C06S-Impresora/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C06S-Impresora/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C06S-Impresora/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C06S-Impresora/C6S-Impresora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C06S-Impresora/src/Impresora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C06S-Impresora/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C07A-Relacion-Clases/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C07A-Relacion-Clases/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C07A-Relacion-Clases/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C07A-Relacion-Clases/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C07A-Relacion-Clases/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C07A-Relacion-Clases/C07A-Relacion-Clases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C07A-Relacion-Clases/src/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C07A-Relacion-Clases/src/Chofer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C07A-Relacion-Clases/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C07A-Relacion-Clases/src/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C0S_Intro/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C0S_Intro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C0S_Intro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C0S_Intro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C0S_Intro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C0S_Intro/clase_0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C0S_Intro/src/Perro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C0S_Intro/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C0S_Intro/src/sincro/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C18_ejercicoClase-futbol/JugadoresFutbol/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C18_ejercicoClase-futbol/JugadoresFutbol/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C18_ejercicoClase-futbol/JugadoresFutbol/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C18_ejercicoClase-futbol/JugadoresFutbol/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C18_ejercicoClase-futbol/JugadoresFutbol/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C18_ejercicoClase-futbol/JugadoresFutbol/JugadoresFutbol.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C18_ejercicoClase-futbol/JugadoresFutbol/src/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C18_ejercicoClase-futbol/JugadoresFutbol/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C18_ejercicoClase-futbol/JugadoresFutbol/src/PosicionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C18_ejercicoClase-futbol/JugadoresFutbol/src/Seleccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Alejandro_Huertas/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Alejandro_Huertas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Alejandro_Huertas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Alejandro_Huertas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Alejandro_Huertas/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Alejandro_Huertas/Final-Alejandro_Huertas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Alejandro_Huertas/src/ArmadoPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Alejandro_Huertas/src/ArmadoPizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Alejandro_Huertas/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Alejandro_Huertas/src/PizzaCombinada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Alejandro_Huertas/src/PizzaLoca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final-Alejandro_Huertas/src/PizzaSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/EjercicioParcial/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/EjercicioParcial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/EjercicioParcial/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/EjercicioParcial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/EjercicioParcial/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/EjercicioParcial/EjercicioParcial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/EjercicioParcial/src/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/EjercicioParcial/src/Examen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/EjercicioParcial/src/Final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/EjercicioParcial/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/EjercicioParcial/src/Parcial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/Parcial_cine/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/Parcial_cine/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/Parcial_cine/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/Parcial_cine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/Parcial_cine/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/Parcial_cine/Parcial_cine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/Parcial_cine/src/Cine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/Parcial_cine/src/Comparable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/Parcial_cine/src/Corto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/Parcial_cine/src/Largometraje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/Parcial_cine/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parciales/Parcial_cine/src/Pelicula.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/C03S_Intro-Java/comidaPerros" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BMBsXrgoLJYGy0XICkm8dWMLfn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/ale-hts/<CODE>/Digital House/Certified Tech Developers/Materias_B2/POO/intelliJ-code",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74b10870-03ad-4588-a4d5-87245038a01b" name="Changes" comment="" />
+      <created>1656706280846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656706280846</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/C03S_Intro-Java/comidaPerros" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C03S_Intro-Java/funcionScanner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C04S_Objetos-UML/Obj-UML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C06S-Impresora" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C07A-Relacion-Clases" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C0S_Intro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/C18_ejercicoClase-futbol/JugadoresFutbol" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Final-Alejandro_Huertas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parciales/EjercicioParcial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Parciales/Parcial_cine" vcs="Git" />
+  </component>
+</project>

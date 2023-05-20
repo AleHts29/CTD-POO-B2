@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/C0S_Intro/C0S_Intro.iml" filepath="$PROJECT_DIR$/C0S_Intro/C0S_Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C4S_Objetos-UML/C4S_Objetos-UML.iml" filepath="$PROJECT_DIR$/C4S_Objetos-UML/C4S_Objetos-UML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DH-ExcepcionesPropias/DH-ExcepcionesPropias.iml" filepath="$PROJECT_DIR$/DH-ExcepcionesPropias/DH-ExcepcionesPropias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parciales/EjercicioParcial/EjercicioParcial.iml" filepath="$PROJECT_DIR$/Parciales/EjercicioParcial/EjercicioParcial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C18_ejercicoClase-futbol/JugadoresFutbol/JugadoresFutbol.iml" filepath="$PROJECT_DIR$/C18_ejercicoClase-futbol/JugadoresFutbol/JugadoresFutbol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parciales/Parcial_cine/Parcial_cine.iml" filepath="$PROJECT_DIR$/Parciales/Parcial_cine/Parcial_cine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C3S_Intro-Java/Piedra_Papel_Tijera/Piedra_Papel_Tijera.iml" filepath="$PROJECT_DIR$/C3S_Intro-Java/Piedra_Papel_Tijera/Piedra_Papel_Tijera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c1clase19/c1clase19.iml" filepath="$PROJECT_DIR$/c1clase19/c1clase19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C3S_Intro-Java/comidaPerros/comidaPerros.iml" filepath="$PROJECT_DIR$/C3S_Intro-Java/comidaPerros/comidaPerros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C18_ejercicoClase-futbol/ejercicioComision9/ejercicioComision9.iml" filepath="$PROJECT_DIR$/C18_ejercicoClase-futbol/ejercicioComision9/ejercicioComision9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C3S_Intro-Java/funcionScanner/funcionScanner.iml" filepath="$PROJECT_DIR$/C3S_Intro-Java/funcionScanner/funcionScanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/intelliJ-code.iml" filepath="$PROJECT_DIR$/.idea/intelliJ-code.iml" />
+    </modules>
+  </component>
+</project>
