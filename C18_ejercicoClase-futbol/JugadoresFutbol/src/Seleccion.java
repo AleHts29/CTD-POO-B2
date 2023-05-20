@@ -25,7 +25,8 @@ public class Seleccion {
     //11 son los titulares, los siguientes 7 son los
     // suplentes y los 5 restantes son de reserva.
     public ArrayList<Jugador> obtenerReserva() throws RuntimeException{
-        if(1 == 2) {
+        //simulamos la exepcion
+        if(false) {
             throw new RuntimeException();
         }
         ArrayList<Jugador> reserva = new ArrayList<>();
@@ -37,12 +38,12 @@ public class Seleccion {
 
     public Integer cantJugPorPos(String pos) throws PosicionException {
         //exception
-        if(!pos.equals("DELATERO") || !pos.equals("ARQUERO")){
+        if(!pos.equals("ARQUERO")){
             throw new PosicionException();
         }
-
         Integer cantJugEnPosicion = 0;
         for(Jugador jugador : this.jugadores){
+            //los strings se comparan con equals
             if(jugador.getPosicion().equals(pos)){
                 cantJugEnPosicion ++;
             }

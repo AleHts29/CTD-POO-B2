@@ -42,14 +42,13 @@ public class Main {
 
             Integer cantDEArq = seleccion.cantJugPorPos("ARQUERO");
             System.out.println("cantidad de ARQUERO: " + cantDEArq);
-            Integer cantDElanteros = seleccion.cantJugPorPos("DELANTERO");
-            System.out.println("cantidad de delanteros: " + cantDElanteros);
-            Integer aguatero = seleccion.cantJugPorPos("DELANTERO");
-            System.out.println("cantidad de aguatero: " + aguatero);
+//            Integer cantDElanteros = seleccion.cantJugPorPos("DELANTERO");
+//            System.out.println("cantidad de delanteros: " + cantDElanteros);
+//            Integer aguatero = seleccion.cantJugPorPos("DELANTERO");
+//            System.out.println("cantidad de aguatero: " + aguatero);
 
-        } catch (PosicionException exception){
+        } catch (PosicionException e){
             System.err.println("error");
-
         } catch (RuntimeException e) {
             System.err.println("dsds");
         }
